@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1795341380 source:c:\users\lenovo\onedrive - telkom university\code semester 3\tubeesstd\main.cpp
+	<iostream>
+	"tubes.h"
+
+1795343305 c:\users\lenovo\onedrive - telkom university\code semester 3\tubeesstd\tubes.h
+	<string>
+
+1795343335 source:c:\users\lenovo\onedrive - telkom university\code semester 3\tubeesstd\tubes.cpp
+	<iostream>
+	"tubes.h"
+
